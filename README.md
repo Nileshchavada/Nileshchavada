@@ -36,8 +36,8 @@ Welcome to my GitHub repository! I'm Nilesh Chavada, a passionate and innovative
 
 Feel free to reach out for collaboration or inquiries:
 
-- **Email:** <a href="Chavadanilesh@yahoo.com" target="_blank">Contact via Email</a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/chavadanilesh/" target="_blank">Connect on LinkedInl</a>
+- **Email:** [Contact via Email](mailto:yChavadanilesh@yahoo.com)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/chavadanilesh/" target="_blank">Connect on LinkedIn</a>
 - **Portfolio:** <a href="https://nileshchavada.github.io/ChavadaNilesh/" target="_blank">Explore my Portfolio</a>
 
 Thank you for visiting! Excited about the possibility of contributing to your team's success. Let's connect and build something amazing together! 🚀
